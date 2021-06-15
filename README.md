@@ -4,7 +4,7 @@
 1. use a AprilTag and PING to calibrate the location
 2. park
 3. follow a line to a destination
-4. follow me  
+4. follow me  (my pen)
  
 :::info
 You can press 't' to terminate the task
