@@ -5,7 +5,6 @@
  ```bash
 sudo mbed compile --source . --source ~/ee2405/mbed-os-build/ -m B_L4S5I_IOT01A -t GCC_ARM -f 
 ```
-3. sudo python3 car_control.py /dev/ttyUSB0
 ## Task
 1. press 'g', then car will start to do the task
 1. use a AprilTag and PING to calibrate the location
@@ -28,5 +27,6 @@ pleas use this pen to draw lines and to lead the car
 
 
 ## Demo
-[![](https://i.imgur.com/nDdGgU5.png)](https://drive.google.com/file/d/17LJlf10qERkdlbz8jkuX2q_cXuTPOrw9/view?usp=sharing)
-
+<!-- [![](https://i.imgur.com/nDdGgU5.png)](https://drive.google.com/file/d/17LJlf10qERkdlbz8jkuX2q_cXuTPOrw9/view?usp=sharing) -->
+[![](https://i.imgur.com/nDdGgU5.png)](
+https://drive.google.com/file/d/17przmbG0mk4DgGyXy_5fjyepB2RLJYL1/view?usp=sharing)
