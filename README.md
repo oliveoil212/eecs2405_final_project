@@ -1,4 +1,6 @@
-# eecs2405_final_project
+# eecs2405_final_project  
+
+bbcar  library 不能用原版的，一定要下載這個我的或，我的hw4
 ## How to use
 1. copy main.py to your openmv
 2.  excute 
